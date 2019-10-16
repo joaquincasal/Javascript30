@@ -5,5 +5,5 @@ I'll publish the exercises as I follow them. They can be seen [here](https://joa
 
 These is what I have by now:
 
-- [JavaScript Drum Kit](https://joaquincasal.github.io/Javascript30/01-Drumkit)
+- [JavaScript Drum Kit](https://joaquincasal.github.io/Javascript30/01-DrumKit)
 - [JS and CSS Clock](https://joaquincasal.github.io/Javascript30/02-Clock)
