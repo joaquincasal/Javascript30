@@ -5,5 +5,9 @@ I'll publish the exercises as I follow them. They can be seen [here](https://joa
 
 These is what I have by now:
 
-- [JavaScript Drum Kit](https://joaquincasal.github.io/Javascript30/01-DrumKit)
-- [JS and CSS Clock](https://joaquincasal.github.io/Javascript30/02-Clock)
+- [JavaScript drum kit](https://joaquincasal.github.io/Javascript30/01-DrumKit)
+- [JS and CSS clock](https://joaquincasal.github.io/Javascript30/02-Clock)
+- [Photo editing with CSS variables](https://joaquincasal.github.io/Javascript30/03-CSS_Variables)
+- [Array methods 1](https://joaquincasal.github.io/Javascript30/04-Array_Cardio_1)
+- [Flex panel gallery](https://joaquincasal.github.io/Javascript30/05-Flex_Panel_Gallery)
+- [Konami Code](https://joaquincasal.github.io/Javascript30/12-Konami_Code)
