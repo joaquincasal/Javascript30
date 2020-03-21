@@ -13,4 +13,5 @@ These is what I have by now:
 - [Type ahead](https://joaquincasal.github.io/Javascript30/06-Type_Ahead)
 - [Array methods 2](https://joaquincasal.github.io/Javascript30/07-Array_Cardio_2)
 - [Drawing with HTML5 Canvas](https://joaquincasal.github.io/Javascript30/08-Fun_with_HTML5_Canvas)
+- [Dev tools](https://joaquincasal.github.io/Javascript30/09-Dev_Tools_Domination)
 - [Konami Code](https://joaquincasal.github.io/Javascript30/12-Konami_Code)
